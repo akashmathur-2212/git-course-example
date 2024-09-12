@@ -1,5 +1,5 @@
 # Example Git Repo
 
-Learning
-Insia
-goodbye
+docs
+git clone
+git checkout -b brandname
